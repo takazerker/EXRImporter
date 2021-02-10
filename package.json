@@ -1,0 +1,12 @@
+{
+  "name": "com.takanora.exrimporter",
+  "version": "0.0.1",
+  "displayName": "EXR Importer",
+  "author": {
+    "name": "Takanori Shibasaki",
+    "url": "https://github.com/takazerker/EXRImporter"
+  },
+  "description": "EXR importer for editor.",
+  "type": "library",
+  "hideInEditor": true
+}
